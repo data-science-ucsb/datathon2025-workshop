@@ -14,4 +14,5 @@ Taught by UCSB Technical Development Staff:
 - Pariya Akhiani
 - Jeremi Nuer
 - Clement Boiteux
+- Jakob Ramirez
 - Samantha Su
